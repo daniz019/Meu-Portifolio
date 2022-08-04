@@ -1,0 +1,408 @@
+body {
+    background-color: #22212C;
+}
+
+.container-a {
+    position: absolute;
+    padding: 100px;
+    width: 90px;
+    border-radius: 10px;
+    background-color: #302F3D;
+    left: 40px;
+    top: 40px;
+}
+.container-b {
+    position: absolute;
+    border: solid #00FF00;
+    padding: 30px;
+    border-radius: 50%;
+    background-image: url(./assets/eu.jpg);
+    background-size: 100%;
+    top: 55px;
+    left: 155px;
+    border-width: 1px;
+}
+
+.Nome {
+    position: absolute;
+    width: 170px;
+    font-size: 20px;
+    top: 80px;
+    left: 60px;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #837E9F;
+    font-weight: 700;
+    text-align: center;
+}
+
+.subtitulo {
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    width: 170px;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #837E9F;
+}
+
+.container-c {
+    position: absolute;
+    padding: 100px;
+    width: 90px;
+    left: 40px;
+    border-radius: 10px; 
+    background-color:  #302F3D;
+    top: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    
+}
+
+.gps {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.pontogps {
+    position:absolute;
+    left: 26px;
+    top: 26px;
+}
+
+.localização {
+    position: absolute;
+    left: 60px;
+    top: 10px;
+    color: #837E9F;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.linkedin {
+    position: absolute;
+    top: 60px;
+    left:18px;
+}
+
+.nomelink {
+    position: absolute;
+    top: 50px;
+    left: 60px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 400;
+    color: #837E9F;
+    font-size: 13px;
+}
+
+.e-mail {
+    position:absolute;
+    left: 18px;
+}
+
+.emailtext {
+    position: absolute;
+    top: 89px;
+    left: 60px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #837E9F;
+}
+
+.trabalho {
+    position: absolute;
+    top: 135px;
+    left: 18px;
+}
+
+.estudante {
+    position: absolute;
+    top: 128px;
+    left: 60px;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #837E9F;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+
+.container-d {
+    position: absolute;
+    background-color: #302F3D;
+    padding: 70px;
+    width: 150px;
+    border-radius: 10px;
+    left: 40px;
+    top: 750px;
+    height: 5px;
+}
+
+.subtitulo2 {
+    position: absolute;
+    font-weight: 700;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #837E9F;
+    font-size: 20px;
+    top: 5px;
+    left: 30px;
+}
+
+.cs {
+    position: absolute;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 30px;
+    background-color: #CB92B1;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-style: normal;
+    line-height: 13px;
+    color: black;
+    top: 50px;
+    left: 50px;
+    width: 70px;
+}
+
+.ht {
+    position: absolute;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 30px;
+    background-color: #CB92B1;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-style: normal;
+    line-height: 13px;
+    color: black;
+    top: 90px;
+    left: 50px;
+    width: 70px;
+}
+
+.java {
+    position: absolute;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 30px;
+    background-color: #CB92B1;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-style: normal;
+    line-height: 13px;
+    color: black;
+    top: 50px;
+    left: 160px;
+    width: 70px;
+}
+
+.git {
+    position: absolute;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 30px;
+    background-color: #CB92B1;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-style: normal;
+    line-height: 13px;
+    color: black;
+    top: 90px;
+    left: 160px;
+    width: 70px;
+}
+
+.container-e {
+    position: absolute;
+    background-color: #302F3D;
+    padding: 70px;
+    width: 300px;
+    border-radius: 10px;
+    left: 40px;
+    top: 950px;
+    height: 30px;
+}
+
+.titlee {
+    position: absolute;
+    width: 300px;
+    font-size: 20px;
+    top: 10px;
+    left: 1px;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #837E9F;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+
+.container-f {
+    position: absolute;
+    padding: 100px;
+    width: 90px;
+    left: 40px;
+    border-radius: 10px; 
+    background-color:  #302F3D;
+    top: 950px;
+    height: 30px;
+    background-repeat: no-repeat;
+}
+
+.Education {
+    position: absolute;
+    width: 300px;
+    font-size: 20px;
+    top: 10px;
+    left: 33px;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #837E9F;
+    font-weight: 700;
+
+}
+
+.cursodev {
+    position: absolute;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #837E9F;
+    font-size: 13px;
+    top: 50px;
+    left: 30px;
+
+}
+
+.subrocket {
+    position: absolute;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #837E9F;
+    font-size: 10px;
+    text-align: justify;
+    top: 75px;
+    left: 75px;
+}
+
+.micro {
+    position: absolute;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #837E9F;
+    font-size: 13px;
+    left: 30px;
+    top: 110px;
+}
+
+.submicro {
+    position: absolute;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #837E9F;
+    font-size: 10px;
+    text-align: justify;
+    left: 75px;
+    top: 135px;
+}
+
+.final {
+    position: absolute;
+    left: 900px;
+    color: #837E9F;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    top: 1200px;
+   
+}
+
+.container-g {
+    position: absolute;
+    top: 40px;
+    left: 400px;
+    height: 80px;
+    right: 40px;
+    width: 1000px;
+    border-radius: 10px;
+    background-color:  #302F3D;
+}
+
+.meuprojeto {
+    position: absolute;
+    left: 40px;
+    top: 10px;
+    color: #837E9F;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.container-h {
+    position: absolute;
+    padding: 70px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: #302F3D;
+    left: 400px;
+    top: 150px;
+}
+
+.arquivo-icon {
+    position: absolute;
+    top: 22px;
+    left: 22px;
+}
+
+.my-first-project {
+    position: absolute;
+    top: 7px;
+    color: #837E9F;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 16px;
+}
+
+.redirect-github{
+    text-decoration: none;
+    color: #837E9F;
+}
+
+.descrição-my-first-project {
+    position: absolute;
+    top: 45px;
+    left: 22px;
+    color: #837E9F;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.estrela-icon {
+    position: absolute;
+    top: 110px;
+    left: 22px;
+}
+
+.curtidas {
+    position: absolute;
+    top: 93px;
+    left: 50px;
+    color: #837E9F;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.circulo-css {
+    position: absolute;
+    top: 112px;
+    left: 250px;
+}
+
+.css-model {
+    position: absolute;
+    color: #837E9F;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 14px;
+    left: 270px;
+    top: 97px;
+}
